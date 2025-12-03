@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜に焦がれて",
+  "base_artist": "kobore",
+  "createdAt": "2025-12-03T15:07:32.963368Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜に焦がれて",
+      "artist": "kobore",
+      "has_synced": false,
+      "path": "select/pl_01_夜に焦がれて_kobore.txt"
+    }
+  ]
+}
